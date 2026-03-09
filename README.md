@@ -26,7 +26,7 @@ The system enables **data-driven retention strategies** by helping businesses an
 * Which customer segments need retention campaigns?
 
 ---
-<<<<<<< HEAD
+
 
 # Key Features
 
@@ -486,6 +486,7 @@ Open the `.pbix` file in **Power BI Desktop**.
 Gaurav Verma
 B.Tech Computer Science
 Machine Learning & Data Analytics Enthusiast
+
 
 
 
