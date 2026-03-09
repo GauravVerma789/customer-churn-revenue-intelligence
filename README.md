@@ -65,6 +65,8 @@ Key dashboard views include:
 * Churn probability by contract type
 * Churn trends across demographics
 
+  /Users/gauravverma/Downloads/customer-churn-revenue-intelligence/dashboard/e4f8cdb7-1.png
+
 ---
 
 # Tech Stack
@@ -483,5 +485,6 @@ Open the `.pbix` file in **Power BI Desktop**.
 Gaurav Verma
 B.Tech Computer Science
 Machine Learning & Data Analytics Enthusiast
+
 
 
