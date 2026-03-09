@@ -67,7 +67,6 @@ Key dashboard views include:
 
 Dashboard Preview
 <img width="2767" height="1600" alt="e4f8cdb7-1" src="https://github.com/user-attachments/assets/1e35d003-4321-482e-9cd7-4b8c74a41e7a" />
-">
 
 ---
 
@@ -487,6 +486,7 @@ Open the `.pbix` file in **Power BI Desktop**.
 Gaurav Verma
 B.Tech Computer Science
 Machine Learning & Data Analytics Enthusiast
+
 
 
 
